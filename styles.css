@@ -11,3 +11,11 @@
   font-weight: 600;
   border: none;
 }
+
+/* H5P Objects */
+.hp-question-check-answer {
+  background-color: #CBE068;
+  color: #555555;
+  border-radius: 0px;
+  border: 1px solid #9EB441;
+}
