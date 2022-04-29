@@ -14,6 +14,7 @@
 
 .nav-link {
   color: #A71B25;
+  min-width: 51px;
 }
 
 .nav-pills .nav-link.active {
