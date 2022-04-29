@@ -13,9 +13,9 @@
 }
 
 /* H5P Objects */
-.h5p-question-check-answer {
-  background-color: #CBE068;
-  color: #555555;
-  border-radius: 0px;
-  border: 1px solid #9EB441;
+.h5p-joubelui-button {
+  background-color: #CBE068 !important;
+  color: #555555 !important;
+  border-radius: 0px !important;
+  border: 1px solid #9EB441 !important;
 }
