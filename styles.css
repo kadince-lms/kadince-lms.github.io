@@ -60,3 +60,10 @@ figure .bobbiProfile {
 .loIcon {
   height: 78px;
 }
+
+.kadinceBtn {
+  border-radius: 3px;
+  background-color: #CBE068;
+  border: 1px solid #788D2B;
+  padding: 17px 25px;
+}
