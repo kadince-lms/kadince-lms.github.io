@@ -84,7 +84,11 @@
 }
 
 .rw-intro {
-  
+  background: url("https://schoolkeep-production.s3.amazonaws.com/wysiwyg/603590e4-5311-487c-9bc0-87379924112d/20220523222023_rw-banner.png");
+  background-size: contain;
+  background-position: center;
+  min-height: 300px;
+  background-repeat: no-repeat;    
 }
 
 .goals-intro {
