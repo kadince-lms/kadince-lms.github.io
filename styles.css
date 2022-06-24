@@ -153,12 +153,12 @@
   color: #555;
 }
 
-carousel-indicators {
+.carousel-indicators {
   margin: 0;
   background: white;
 }
 
-carousel-inner {
+.carousel-inner {
   overflow: auto;
   height: 500px;
 }
