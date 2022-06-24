@@ -152,3 +152,14 @@
   padding: 10px;
   color: #555;
 }
+
+carousel-indicators {
+  margin: 0;
+  background: white;
+}
+
+carousel-inner {
+  overflow: auto;
+  height: 500px;
+}
+
