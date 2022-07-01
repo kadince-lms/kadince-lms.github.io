@@ -163,4 +163,7 @@
   height: 500px;
 }
 
-scrolyPoly
+.olEmphasis li::marker {
+ color: #e6555f;
+  font-weight: 600;
+}
