@@ -172,6 +172,12 @@
 }
 
 .olEmphasis li::marker {
- color: #e6555f;
+  color: #e6555f;
   font-weight: 600;
+}
+
+.hwTasks {
+  border-left: 5px solid #bad345;
+  box-shadow: 0px 0px 3px #aaaaaa;
+  
 }
