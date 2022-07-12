@@ -131,6 +131,14 @@
   background-repeat: no-repeat;    
 }
 
+.hours-intro {
+  background: url("https://schoolkeep-production.s3.amazonaws.com/wysiwyg/603590e4-5311-487c-9bc0-87379924112d/20220712190115_hours-banner.png");
+  background-size: contain;
+  background-position: center;
+  min-height: 300px;
+  background-repeat: no-repeat;    
+}
+
 .hw-intro {
   background: url("https://schoolkeep-production.s3.amazonaws.com/wysiwyg/603590e4-5311-487c-9bc0-87379924112d/20220705185517_bobbi-hw-bg.png");
   background-size: contain;
