@@ -207,7 +207,7 @@
 
 .homeworkLined {
 /* Lined background */
-   background-image: linear-gradient(rgba(186, 211, 69, 0.3) 1px, transparent 0px);
+   background-image: linear-gradient(rgba(120, 141, 43, 0.3) 1px, transparent 0px);
    background-size: 100% 2em;
 /*
 Display the content on top of the lines.
