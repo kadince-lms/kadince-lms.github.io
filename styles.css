@@ -201,6 +201,10 @@
   color: #555;
 }
 
+.feedbackBtn {
+  background-color: #f1f6da;
+}
+
 .carousel-indicators {
   margin: 0;
   background: white;
